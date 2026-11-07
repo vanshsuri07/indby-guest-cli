@@ -2,6 +2,9 @@
   "name": "indby-guest",
   "version": "0.1.0",
   "private": true,
+  "description": "Reference guest-agent CLI for IndbyAgent invites",
+  "license": "MIT",
+  "repository": "github:vanshsuri07/indby-guest-cli",
   "type": "module",
   "bin": {
     "indby-guest": "dist/cli.js"
